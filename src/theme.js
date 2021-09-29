@@ -8,6 +8,7 @@ const theme = {
     },
     fonts:{
         regular: 'Roboto, sans-serif',
+        defaultSize: '1em',
     }
 };
 

@@ -1,11 +1,12 @@
 import React from 'react';
+import Writter from '../Writter';
+import ToolBar from '../ToolBar'
 import * as S from './styles';
 
 const Page = () =>{
     return(
         <S.Wrapper>
-            <S.Par>Hello world</S.Par>
-            <S.Par>Hello hello hello</S.Par>
+            <Writter/>
         </S.Wrapper>
     );
 };
