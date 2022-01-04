@@ -1,0 +1,12 @@
+.ql-toolbar{
+    background-color: #c9ada7;
+    
+}
+
+.ql-picker-label, .ql-snow .ql-stroke, .ql-snow .ql-fill {
+    color: #22223b;
+}
+
+.ql-picker-label:hover, .ql-snow .ql-stroke:hover, .ql-snow .ql-fill:hover {
+    color: #fff;
+}

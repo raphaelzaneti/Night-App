@@ -1,16 +1,13 @@
 import React from 'react'
-import Page from '../Page'
-import ToolBar from '../ToolBar'
-import Viewer from '../Viewer'
+
+import QuillEditor from '../QuillEditor'
 
 
 
 const WorkSpace = () =>{
     return(
         <>
-            <ToolBar/>
-            <Page/>
-            <Viewer/>
+            <QuillEditor />
         </>
     )
 }

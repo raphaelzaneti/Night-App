@@ -3,6 +3,8 @@ Imagine if you could use Microsoft Word or others text editors in a dark mode? N
 
 I hope you enjoy it! :)
 
+Update: since I started this project, Microsoft finally released the dark mode feature to Microsoft Word. Anyway, I will keep working in this project, in order to just create a simple rich text editor with more features than Quill offer. 
+
 ### What is this project?
 A text editor inspired on VS Code and others technology editors, designed to corporate workers out of tech. 
 
@@ -20,8 +22,10 @@ To garauntee more life quality to corporate workers, that today are daily expose
 ### What problem does it solve?
 When we use an dark mode text editor, we save energy (https://www.forbes.com/sites/jvchamary/2021/07/31/phone-battery-life-dark-mode/) and reduces the exposal of worker's eye to blue light, which is harmful to the health (https://www.healthline.com/health/is-dark-mode-better-for-your-eyes#benefits-of-dark-mode). 
 
+Update: right now the problem is already solved.
+
 ### What did I learn?
 Right now, the 'inovation' on my projects is the use of styled components. 
 
 ### Future plans
-The project is still on beginning, so I have a lot of work to do!
+As the problem is solved, I intend to create some features that Quill does not provide nowadays.
