@@ -10,3 +10,15 @@
 .ql-picker-label:hover, .ql-snow .ql-stroke:hover, .ql-snow .ql-fill:hover {
     color: #fff;
 }
+
+.ql-editor .ql-blank::placeholder{
+    color: red;
+    opacity: 1;
+}
+
+.print-btn{
+    background-image: url('../../assets/printer.svg') !important;
+    background-size: 80% !important;
+    background-repeat: no-repeat !important;
+    background-position: center;
+}
