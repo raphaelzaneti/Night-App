@@ -1,4 +1,12 @@
 # Night App
+
+*************************
+##Project suspended!
+
+As the plenity of text editors - including Microsoft World - providing the dark mode feature, this project has no problem to solve. I intend to break it in some new others smallers projects, with specific solutions to automate the writing of documents (like an application that automatically writes the numbers in full, for example).
+*************************
+
+
 Imagine if you could use Microsoft Word or others text editors in a dark mode? No, not just parts of the interface, but the sheet where you write. This is the objective of this project!
 
 I hope you enjoy it! :)
